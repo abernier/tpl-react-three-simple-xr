@@ -1,4 +1,4 @@
-Try on: [Codespace](https://github.com/codespaces/new?template_repository=abernier%2Ftpl-react-three-simple) | [StackBlitz](https://stackblitz.com/github/abernier/tpl-react-three-simple) | [Codesandbox](https://codesandbox.io/s/github/abernier/tpl-react-three-simple)
+Try on: [Codespace](https://github.com/codespaces/new?template_repository=abernier%2Ftpl-react-three-simple-xr) | [StackBlitz](https://stackblitz.com/github/abernier/tpl-react-three-simple-xr) | [Codesandbox](https://codesandbox.io/s/github/abernier/tpl-react-three-simple-xr)
 
 # INSTALL
 
